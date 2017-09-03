@@ -1,0 +1,102 @@
+.top{  position: absolute;
+	      right:50%;
+	      left: 20%;
+	      top: 0%;
+	     }
+div.menu{ width:130px; 
+	      background-color:#3D3D3D; 
+	      position: absolute;
+	      right:71.42%;
+	     } 
+div.menu1{ width:890px; 
+	       margin:190px auto 0px auto; 
+	       background-color:#282828;
+	     } 
+ ul{ list-style-type:none; 
+     margin: 0;
+     padding: 0;
+     overflow: hidden; 
+     } 
+ li{ float:left; 
+ 	 line-height:40px;
+ 	 width:147.9px; 
+ 	 text-align:center; 
+ 	   } 
+ li a{ 
+      color:#FFFFFF; 
+      text-decoration:none; 
+      text-transform: uppercase;
+      padding: 5PX;
+      text-align: center;
+      display: block;
+      width:151px; 
+      height:40px; 
+      font-family:"Times New Roman",Georgia,Serif;  
+      } 
+ li a:hover{ background-color:#707070;} 
+div.black1{
+            position: absolute;right:50%;left: 20%;top: 33.6%;
+          }
+body {background-image: url(../image/猫爪3.jpg);
+background-repeat:repeat; }  
+div.image{
+            position: absolute;
+            top: 11.5%;
+            left: 10.6%; 
+}   
+div.download{
+              position: absolute;
+              top: 137%;
+              left: 38%;
+}   
+div.num{
+         position: absolute;
+         font-family: 微软雅黑;
+         color: #FFFAF0;
+         top: 146%;
+         left: 44%;
+         width: 120px;
+
+}  
+div.img{
+         position: absolute;
+         top: 35%;
+         margin-left: 27.5%;
+}
+div.wenzi{
+          position: absolute;
+          font-family: 微软雅黑;
+          color: #FFFAF0;
+          top: 95%;
+          left: 40%;
+}
+div.music1{
+           position: absolute;
+           margin-top: 15%;
+           margin-right:1%;
+}
+div.music2{
+           position: absolute;
+           margin-top: 24%;
+           margin-right:1%;
+}
+div.music3{
+           position: absolute;
+           margin-top: 33%;
+           margin-right:20%;
+}
+div.music4{
+           position: absolute;
+          margin-top: 15%;
+           margin-left:53%;
+}
+div.music5{
+           position: absolute;
+           margin-top: 24%;
+           margin-left:53%;
+}
+div.music6{
+           position: absolute;
+           margin-top: 33%;
+           margin-left:53%;
+}

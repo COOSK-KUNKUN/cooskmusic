@@ -1,0 +1,55 @@
+.top{  position: absolute;
+	      right:50%;
+	      left: 20%;
+	      top: 0%;
+	     }
+div.menu{ width:130px; 
+	      background-color:#3D3D3D; 
+	      position: absolute;
+	      right:71.42%;
+	     } 
+div.menu1{ width:890px; 
+	       margin:190px auto 0px auto; 
+	       background-color:#282828;
+	     } 
+ ul{ list-style-type:none; 
+     margin: 0;
+     padding: 0;
+     overflow: hidden; 
+     } 
+ li{ float:left; 
+ 	 line-height:40px;
+ 	 width:147.9px; 
+ 	 text-align:center; 
+ 	   } 
+ li a{ 
+      color:#FFFFFF; 
+      text-decoration:none; 
+      text-transform: uppercase;
+      padding: 5PX;
+      text-align: center;
+      display: block;
+      width:151px; 
+      height:40px; 
+      font-family:"Times New Roman",Georgia,Serif;  
+      } 
+ li a:hover{ background-color:#707070;} 
+div.black1{
+            position: absolute;right:50%;left: 20%;top: 33.6%;
+          }
+body {background-image: url(../image/猫爪3.jpg);
+background-repeat:repeat; }  
+div.image{
+            position: absolute;
+            top: 11.5%;
+            left: 10.6%; 
+}   
+div.downlaod{
+
+}  
+div.video{
+          position: absolute;
+          left: 20.4%;
+          top: 40%;
+          
+}

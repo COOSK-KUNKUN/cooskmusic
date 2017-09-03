@@ -1,0 +1,87 @@
+.top{  position: absolute;
+	      right:50%;
+	      left: 20%;
+	      top: 0%;
+	     }
+div.menu{ width:130px; 
+	      background-color:#3D3D3D; 
+	      position: absolute;
+	      right:71.42%;
+	     } 
+div.menu1{ width:890px; 
+	       margin:190px auto 0px auto; 
+	       background-color:#282828;
+	     } 
+ ul{ list-style-type:none; 
+     margin: 0;
+     padding: 0;
+     overflow: hidden; 
+     } 
+ li{ float:left; 
+ 	 line-height:40px;
+ 	 width:147.9px; 
+ 	 text-align:center; 
+ 	   } 
+ li a{ 
+      color:#FFFFFF; 
+      text-decoration:none; 
+      text-transform: uppercase;
+      padding: 5PX;
+      text-align: center;
+      display: block;
+      width:151px; 
+      height:40px; 
+      font-family:"Times New Roman",Georgia,Serif;  
+      } 
+ li a:hover{ background-color:#707070;} 
+div.black{
+          position: absolute;right:30%;left: 20%;top: 33.6%;    
+}
+div.black1{
+            position: absolute;right:50%;left: 6%;top: 2.4%;
+          }
+body {background-image: url(../image/猫爪3.jpg);
+background-repeat:repeat; }  
+div.black2{
+            position: absolute;
+            right:50%;
+            left: 20%;
+            top: 66%;
+          }  
+div.file1{
+          position: absolute;
+          right:50%;
+          left: 10%;
+          top: 6%;
+
+}
+div.file2{
+          position: absolute;
+          right:50%;
+          left: 73%;
+          top: 6%;
+          }         
+ div.file3{
+          position: absolute;
+          right:50%;
+          left: 135%;
+          top: 6%;
+          } 
+div.file4{
+          position: absolute;
+          right:50%;
+          left: 10%;
+          top: 40%;
+          }        
+div.file5{
+          position: absolute;
+          right:50%;
+          left: 73%;
+          top: 40%;
+          }    
+div.file6{
+          position: absolute;
+          right:50%;
+          left: 135%;
+          top: 40%;
+          }  
